@@ -6,11 +6,6 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
- 
-//This is a sample program to generate a random numbers based on probability desity function of spiner
-//pdf(x) = 1 if x>360
-//       = 0 if x<0
-//       = x/360 otherwise
 
 int N = 5;
 
